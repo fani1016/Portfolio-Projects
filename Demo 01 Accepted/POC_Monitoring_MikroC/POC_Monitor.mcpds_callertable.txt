@@ -1,0 +1,24 @@
+main
+	initialize_uart
+		Unlock_IOLOCK
+		PPS_Mapping_NoLock
+			_PPS_Mapping
+				Unlock_IOLOCK
+				Lock_IOLOCK
+		Lock_IOLOCK
+		UART1_Init
+			Get_Fosc_kHz
+			Delay_100ms
+			_Multiply_32x32
+			_Modulus_32x32
+			_Divide_32x32
+	initialize_adc
+		ADC1_Init_Advanced
+	get_adc
+		ADC1_Get_Sample
+	IntToStr
+		WordToStr
+	TrimLeft
+	UART1_Write_Text
+		UART1_Write
+UART1_Interrupt

@@ -1,0 +1,18 @@
+
+Temp. + Humidity:		DHT11, BME280
++ Pressure Sensor				
+				
+Smoke Sensor: 			MQ-2
+
+CO Sensor: 				MQ-7
+
+Air Quality Sensor: 	MQ-135
+
+Noise Sensor: 			KY-038
+
+Wind Speed, Direction:	---
+Sensor	
+
+
+Sending real-time data to server.
+

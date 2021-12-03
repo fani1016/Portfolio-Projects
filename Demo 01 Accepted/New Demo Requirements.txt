@@ -1,0 +1,15 @@
+Sensors Integration: Temp., CO, NO2, SO2.
+Temp. Sensor: 	https://hallroad.org/dht11-temperature-and-humidity-sensor-digital-relative-humidity-ann-temperature-sensor-module.html
+				https://hallroad.org/lm35-temperature-sensor-in-pakistan.html
+				https://hallroad.org/ds18b20-digital-temperature-sensor-in-pakistan.html
+				
+Smoke Sensor: 	https://hallroad.org/mq2-mq-2-mq-2-smoke-lpg-butane-hydrogen-gas-sensor-in-pakistan.html
+
+CO Sensor: 		https://hallroad.org/mq7-mq-7-mq-7-co-carbon-monoxide-coal-gas-sensor-module-pakistan.html
+
+SO2 Sensor:		
+
+NO2 Sensor: 	
+
+Sending real-time data to server.
+GUI Update

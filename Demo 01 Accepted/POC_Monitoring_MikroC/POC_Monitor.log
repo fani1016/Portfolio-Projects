@@ -1,0 +1,14 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP24HJ128GP502 -DL -SSA -O11111114 -fo7.37 -N"C:\Users\farhan.tariq\Desktop\Avrix\Murree Unit Codes 3162021\My Testing Codes\Working Codes - LUA and MikroC\POC_Monitoring\POC_Monitor.mcpds" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\" -SP"C:\Users\farhan.tariq\Desktop\Avrix\Murree Unit Codes 3162021\My Testing Codes\Working Codes - LUA and MikroC\POC_Monitoring\" -SP"C:\Users\farhan.tariq\Desktop\Avrix\Murree Unit Codes 3162021\My Testing Codes\MikroC Codes\POC_Monitoring\" "POC_Monitor.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_1_p24HJ_p33_2_7.mcl" "__Lib_UART_12_p24_p33.mcl" "__Lib_PPS_p24HJ_GP_02_04_DPC28A.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	126	All files Preprocessed in 156 ms	 
+diagnostics: 0	122	Compilation Started	POC_Monitor.c
+hint: 0	1004	interrupt handler (UART1_Interrupt at 0x002A)	POC_Monitor.c
+diagnostics: 166	123	Compiled Successfully	POC_Monitor.c
+diagnostics: 0	127	All files Compiled in 203 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 2071   Dynamic RAM (bytes): 4072	Static RAM (bytes): 2071   Dynamic RAM (bytes): 4072
+hint: 0	1144	Used ROM (bytes): 2434 (3%)  Free ROM (bytes): 85630 (97%)	Used ROM (bytes): 2434 (3%)  Free ROM (bytes): 85630 (97%)
+diagnostics: 0	125	Project Linked Successfully	POC_Monitor.mcpds
+diagnostics: 0	128	Linked in 375 ms	 
+diagnostics: 0	129	Project 'POC_Monitor.mcpds' completed: 1078 ms	 
+diagnostics: 0	103	Finished successfully: 22 Nov 2021, 15:00:18	POC_Monitor.mcpds

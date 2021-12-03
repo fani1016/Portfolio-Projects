@@ -1,0 +1,56 @@
+[DEVICE]
+Name=P24HJ128GP502
+Clock=7370000
+[MEMORY_MODEL]
+Value=-1
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=POC_Monitor.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=1
+File0=POC_Monitor.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=POC_Monitor.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=4
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\
+Path2=C:\Users\farhan.tariq\Desktop\Avrix\Murree Unit Codes 3162021\My Testing Codes\Working Codes - LUA and MikroC\POC_Monitoring\
+Path3=C:\Users\farhan.tariq\Desktop\Avrix\Murree Unit Codes 3162021\My Testing Codes\MikroC Codes\POC_Monitoring\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=5
+File0=Conversions
+File1=C_String
+File2=Peripheral_Pin_Select
+File3=UART
+File4=ADC
+[EXPANDED NODES]
+Node1=Sources
+Count=1
