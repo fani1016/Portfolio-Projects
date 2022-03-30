@@ -1,0 +1,1 @@
+# Kids-Strength-Calculating-Device
